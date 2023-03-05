@@ -1,1 +1,0 @@
-import{az as o,c0 as t,aK as m,aI as u,c1 as c,aA as g}from"./index-52cb6942-302b6965.js";function p(){for(var r=[],a=0;a<arguments.length;a++)r[a]=arguments[a];var n=o(r),s=t(r,1/0),e=r;return e.length?e.length===1?u(e[0]):c(s)(g(e,n)):m}export{p as m};
