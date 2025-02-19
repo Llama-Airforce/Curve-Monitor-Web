@@ -1,1 +1,0 @@
-import{d as a,e as o,o as s,am as p,T as c,_}from"./index-jdaCXud5.js";const r=a({__name:"IconExpander",props:{expanded:{type:Boolean,default:!1}},setup(t){return(e,d)=>{const n=p;return s(),o(n,{class:c(["expander",{expanded:e.expanded}])},null,8,["class"])}}}),m=_(r,[["__scopeId","data-v-7caf48cb"]]);export{m as _};
