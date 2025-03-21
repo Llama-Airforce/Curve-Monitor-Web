@@ -1,1 +1,0 @@
-import{r}from"./index-DmFZ7O3l.js";function a(){const e=r([]);return{expanded:e,toggleExpansion:n=>{const s=e.value.findIndex(o=>o===n);return s===-1?(e.value.push(n),!0):(e.value.splice(s,1),!1)}}}export{a as u};
