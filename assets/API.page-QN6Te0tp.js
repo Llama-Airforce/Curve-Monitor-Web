@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Swagger-CbMU3wYe.js","assets/index-5B2tI7Zc.js","assets/index-D1yQseNd.css","assets/Swagger-DHh7ZZAh.css"])))=>i.map(i=>d[i]);
+import{d as o,h as n,o as s,u as r,n as t,p as a}from"./index-5B2tI7Zc.js";const u=o({__name:"API.page",setup(p){const e=t(()=>a(()=>import("./Swagger-CbMU3wYe.js"),__vite__mapDeps([0,1,2,3])));return(_,c)=>(s(),n(r(e),{url:"https://prices.curve.fi/feeds-docs/openapi.json"}))}});export{u as default};
