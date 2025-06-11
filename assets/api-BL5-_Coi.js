@@ -1,0 +1,1 @@
+import{t as i,f as m,g as p,a as h}from"./timestamp-CeU_tFUE.js";const $=t=>({time:i(t.time),open:t.open,high:t.high,low:t.low,close:t.close});async function f(t,e,a,s,n){const o=p(n),{start:r,end:g}=h({daysRange:90}),c=`${o}/v1/ohlc/${t}/${e}?main_token=${a}&reference_token=${s}&agg_number=1&agg_units=day&start=${r}&end=${g}`;return(await m(c)).data.map($)}export{f as g};
