@@ -1,0 +1,1 @@
+import{r as t,f as a}from"./index-8S3F9N49.js";function i(e,l){const o=t(e),r=t("desc"),n=(u,c)=>{o.value=u,r.value=c},s=a(()=>({column:o.value,order:r.value}));return{sortColumn:o,sortOrder:r,sorting:s,onSort:n}}export{i as u};
