@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Swagger-DxKg5JYz.js","assets/index-CdY9n_Gu.js","assets/index-DblI59Pf.css","assets/Swagger-CzH7p0Cr.css"])))=>i.map(i=>d[i]);
-import{d as o,b as n,o as s,h as a,s as r,x as t}from"./index-CdY9n_Gu.js";const d=o({__name:"API.page",setup(_){const e=r(()=>t(()=>import("./Swagger-DxKg5JYz.js"),__vite__mapDeps([0,1,2,3])));return(c,p)=>(s(),n(a(e),{url:"https://prices.curve.finance/feeds-docs/openapi.json"}))}});export{d as default};
