@@ -1,0 +1,1 @@
+async function e(t,n=0,r=1e3){let i=await t(n,r),a=await(i.length>=r?e(t,n+1,r):Promise.resolve([]));return i.concat(a)}export{e as t};

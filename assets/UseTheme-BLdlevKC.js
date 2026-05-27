@@ -1,0 +1,1 @@
+import{N as e,S as t}from"./runtime-core.esm-bundler-BwUoGYLm.js";var n=Symbol();function r(t){e(n,t)}function i(){let e=t(n);if(!e)throw Error(`Theme not provided`);return e}export{i as n,r as t};

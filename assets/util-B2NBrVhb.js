@@ -1,0 +1,1 @@
+function e(e){return e?e.totalAssetsUsd+e.collateralBalanceUsd:0}export{e as t};

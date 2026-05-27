@@ -1,0 +1,1 @@
+import{a as e,n as t,s as n,t as r}from"./timestamp-CNrO2_G2.js";var i=e=>({time:t(e.time),open:e.open,high:e.high,low:e.low,close:e.close});async function a(t,a,o,s,c){let l=n(c),{start:u,end:d}=r({daysRange:90});return(await e(`${l}/v1/ohlc/${t}/${a}?main_token=${o}&reference_token=${s}&agg_number=1&agg_units=day&start=${u}&end=${d}`)).data.map(i)}export{a as t};

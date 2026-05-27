@@ -1,1 +1,0 @@
-import{d as a,b as o,o as s,ao as c,X as p,j as t}from"./index-CyDj9hXc.js";const _=a({__name:"IconExpander",props:{expanded:{type:Boolean,default:!1}},setup(e){return(r,d)=>{const n=c;return s(),o(n,{class:p(["expander",{expanded:e.expanded}])},null,8,["class"])}}}),m=t(_,[["__scopeId","data-v-7caf48cb"]]);export{m as _};

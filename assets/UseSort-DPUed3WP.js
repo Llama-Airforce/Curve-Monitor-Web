@@ -1,0 +1,1 @@
+import{rt as e,s as t}from"./runtime-core.esm-bundler-BwUoGYLm.js";function n(n,r){let i=e(n),a=e(r??`desc`);return{sortColumn:i,sortOrder:a,sorting:t(()=>({column:i.value,order:a.value})),onSort:(e,t)=>{i.value=e,a.value=t}}}export{n as t};

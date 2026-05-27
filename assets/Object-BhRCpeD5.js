@@ -1,0 +1,1 @@
+function e(t,n){let r={...t};for(let t in n)Array.isArray(n[t])?r[t]=[...n[t]]:typeof n[t]==`object`&&n[t]!==null?r[t]=e(r[t],n[t]):r[t]=n[t];return r}export{e as t};

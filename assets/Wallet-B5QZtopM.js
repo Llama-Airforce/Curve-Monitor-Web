@@ -1,0 +1,1 @@
+function e(e,t=8){if(!e)return`0x000...000`;let n=t/2+2,r=e.length-t/2;return`${e.substring(0,n)}...${e.substring(r)}`}function t(e,t=6){if(!e)return`0x000`;let n=Math.min(e.length,t+2);return e.length>n?`${e.substring(0,n)}...`:e}export{e as n,t};

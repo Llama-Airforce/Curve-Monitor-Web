@@ -1,0 +1,1 @@
+var e=e=>Object.fromEntries(e),t=e=>Object.entries(e);export{t as n,e as t};

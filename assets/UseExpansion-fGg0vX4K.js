@@ -1,0 +1,1 @@
+import{rt as e}from"./runtime-core.esm-bundler-BwUoGYLm.js";function t(){let t=e([]);return{expanded:t,toggleExpansion:e=>{let n=t.value.findIndex(t=>t===e);return n===-1?(t.value.push(e),!0):(t.value.splice(n,1),!1)}}}export{t};
